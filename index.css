@@ -1,0 +1,317 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.software-dev {
+    width: 100vw;
+}
+
+.my-projects-card {
+    text-align: center;
+}
+
+.projects-heading {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 30px;
+}
+
+.projects-desc {
+    font-family: "Bree Serif";
+    color: #616e7c;
+    font-size: 14px;
+}
+
+.proj-img-button {
+    border-radius: 6px;
+    width: 150px;
+    height: 100px;
+    margin: 5px;
+}
+
+
+
+.advanced-tech-bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.advanced-tech-card {
+    background-color: #ffffff;
+    padding: 16px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.adv-main-heading {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.adv-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.but-1 {
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    background-color: #ffffff;
+    font-size: 12px;
+    height: 35px;
+    width: 110px;
+    margin: 5px;
+}
+
+
+
+
+
+.background-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.top-heading {
+    color: white;
+    text-align: left;
+    font-family: "Caveat";
+    font-size: 32px;
+    font-weight: normal;
+    width: 200px;
+    padding: 30px;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+}
+
+.card-item {
+    background-color: white;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.card-image {
+    height: 20vh;
+    width: 20vh;
+    padding: 5px;
+}
+
+.card-heading {
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #616e7c;
+    padding: 5px;
+}
+
+.card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+.backimg {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.meal-card {
+    background-color: #f6c56e;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+
+}
+
+.head1 {
+    font-family: "Bree Serif";
+}
+
+.ptxt {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.book-button {
+    border-radius: 8px;
+    border-width: 0px;
+    padding: 8px;
+    font-size: 12px;
+    width: 120px;
+    height: 38px;
+}
+
+
+
+
+
+
+
+
+
+.newspaper-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.newspaper-card-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+
+.card-main-para {
+    color: #7b8794;
+}
+
+.main-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.but-1 {
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    background-color: #323f4b;
+    font-size: 12px;
+    height: 38px;
+    width: 110px;
+    margin: 5px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 25px;
+}
+
+.finding-nemo-top-section {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.nemo-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.watch-button {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    border-radius: 8px;
+    height: 38px;
+    width: 96px;
+    font-size: 12px;
+    border-width: 0;
+    color: #ff8348;
+    font-weight: 500;
+}
+
+.nemo-para {
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Bree Serif";
+    font-weight: 400;
+}
+
+.sim-movies-heading {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.sim-movies-img {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.back {
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    font-size: 12px;
+    height: 38px;
+    width: 110px;
+    margin: 5px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+.desc {
+    padding: 20px;
+}
+
+.headings {
+    font-family: "Bree Serif";
+    font-size: 24px;
+    color: #323f4b;
+}
+
+.para {
+    font-family: "Bree Serif";
+    font-size: 14px;
+    color: #9aa5b1;
+}
+
+.pic-imgs {
+    margin: 4px;
+}
+
+.goa-video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
